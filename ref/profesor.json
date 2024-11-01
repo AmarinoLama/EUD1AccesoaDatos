@@ -1,0 +1,58 @@
+{
+  "profesor" : [ {
+    "nombre" : "Pedro Alonso",
+    "dni" : "12345678D",
+    "edad" : "29",
+    "departamento" : "Informática"
+  }, {
+    "nombre" : "Ana Pérez",
+    "dni" : "11111111F",
+    "edad" : "37",
+    "departamento" : "Lengua y Literatura"
+  }, {
+    "nombre" : "Mario Garía",
+    "dni" : "15463433C",
+    "edad" : "42",
+    "departamento" : "Informática"
+  }, {
+    "nombre" : "Isabel Rodríguez",
+    "dni" : "22222222R",
+    "edad" : "28",
+    "departamento" : "Matemáticas"
+  }, {
+    "nombre" : "Fernando López",
+    "dni" : "23452154B",
+    "edad" : "33",
+    "departamento" : "Ciencias"
+  }, {
+    "nombre" : "Juan García",
+    "dni" : "57897457F",
+    "edad" : "42",
+    "departamento" : "Matemáticas"
+  }, {
+    "nombre" : "Sonia López",
+    "dni" : "98755455S",
+    "edad" : "53",
+    "departamento" : "Informática"
+  }, {
+    "nombre" : "Julio Iglésias",
+    "dni" : "954877S",
+    "edad" : "31",
+    "departamento" : "Ciencias"
+  }, {
+    "nombre" : "Aman",
+    "dni" : "59610208G",
+    "edad" : "18",
+    "departamento" : "Ciencias"
+  }, {
+    "nombre" : "Aman",
+    "dni" : "72596391L",
+    "edad" : "18",
+    "departamento" : "Ciencias"
+  }, {
+    "nombre" : "Aman",
+    "dni" : "36199767K",
+    "edad" : "18",
+    "departamento" : "Ciencias"
+  } ]
+}

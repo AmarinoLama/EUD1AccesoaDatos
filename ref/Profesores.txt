@@ -1,0 +1,11 @@
+Pedro Alonso;12345678D;29;Informática
+Ana Pérez;11111111F;37;Lengua y Literatura
+Mario Garía;15463433C;42;Informática
+Isabel Rodríguez;22222222R;28;Matemáticas
+Fernando López;23452154B;33;Ciencias
+Juan García;57897457F;42;Matemáticas
+Sonia López;98755455S;53;Informática
+Julio Iglésias;954877S;31;Ciencias
+Aman;59610208G;18;Ciencias
+Aman;72596391L;18;Ciencias
+Aman;36199767K;18;Ciencias

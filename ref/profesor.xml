@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profesores>
+    <profesor>
+        <nombre>Pedro Alonso</nombre>
+        <dni>12345678D</dni>
+        <edad>29</edad>
+        <departamento>Informática</departamento>
+    </profesor>
+    <profesor>
+        <nombre>Ana Pérez</nombre>
+        <dni>11111111F</dni>
+        <edad>37</edad>
+        <departamento>Lengua y Literatura</departamento>
+    </profesor>
+    <profesor>
+        <nombre>Mario Garía</nombre>
+        <dni>15463433C</dni>
+        <edad>42</edad>
+        <departamento>Informática</departamento>
+    </profesor>
+    <profesor>
+        <nombre>Isabel Rodríguez</nombre>
+        <dni>22222222R</dni>
+        <edad>28</edad>
+        <departamento>Matemáticas</departamento>
+    </profesor>
+    <profesor>
+        <nombre>Fernando López</nombre>
+        <dni>23452154B</dni>
+        <edad>33</edad>
+        <departamento>Ciencias</departamento>
+    </profesor>
+    <profesor>
+        <nombre>Juan García</nombre>
+        <dni>57897457F</dni>
+        <edad>42</edad>
+        <departamento>Matemáticas</departamento>
+    </profesor>
+    <profesor>
+        <nombre>Sonia López</nombre>
+        <dni>98755455S</dni>
+        <edad>53</edad>
+        <departamento>Informática</departamento>
+    </profesor>
+    <profesor>
+        <nombre>Julio Iglésias</nombre>
+        <dni>954877S</dni>
+        <edad>31</edad>
+        <departamento>Ciencias</departamento>
+    </profesor>
+    <profesor>
+        <nombre>Aman</nombre>
+        <dni>59610208G</dni>
+        <edad>18</edad>
+        <departamento>Ciencias</departamento>
+    </profesor>
+    <profesor>
+        <nombre>Aman</nombre>
+        <dni>72596391L</dni>
+        <edad>18</edad>
+        <departamento>Ciencias</departamento>
+    </profesor>
+    <profesor>
+        <nombre>Aman</nombre>
+        <dni>36199767K</dni>
+        <edad>18</edad>
+        <departamento>Ciencias</departamento>
+    </profesor>
+</profesores>
